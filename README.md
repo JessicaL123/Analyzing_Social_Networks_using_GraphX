@@ -1,4 +1,4 @@
-Assignmen 3 - part 2
+Assignment 3 - part 2
 
 How to run:
 1. Build and package the project in Intellij to get a jar file named assn3-part2_2.11-0.1.jar under the path /target/scala-2.11/.
